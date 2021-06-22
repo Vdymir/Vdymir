@@ -17,9 +17,10 @@
 ```javascript
 const vdymir = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, SASS, Firebase, Java],
+  code: [Javascript, HTML, CSS, SASS, Firebase, Java],
   tools: [React, Redux, Gatsby, Styled-Components],
-  hobbies: ["Programed", "Calisthenics", "Gammer"],
+  hobbies: [Programed, Calisthenics, "Gammer"],
+  learning: [Redux, Gatsby, TypeScript, Node.js, Mongo db],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react-redux and typescript"
 }
