@@ -18,7 +18,7 @@
 const vdymir = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, SASS, Firebase, Java],
-  tools: [React, Redux, Gatsby, Styled-Components],
+  tools: [React, Redux,Git, Styled-Components],
   hobbies: [Programed, Calisthenics, "Gammer"],
   learning: [Redux, Gatsby, TypeScript, Node.js, Mongo db],
   
