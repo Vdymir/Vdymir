@@ -20,7 +20,7 @@ const vdymir = {
   code: [Javascript, HTML, CSS, SASS, Firebase, Java],
   tools: [React, Redux,Git, Styled-Components],
   hobbies: [Programed, Calisthenics, "Gammer"],
-  learning: [Redux, Gatsby, TypeScript, Node.js, Mongo db],
+  learning: [Redux, Next.js, TypeScript, Node.js, Mongo db],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react-redux and typescript"
 }
