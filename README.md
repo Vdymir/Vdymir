@@ -17,10 +17,10 @@
 ```javascript
 const vdymir = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SASS, Firebase, Java],
+  code: [Javascript, HTML, CSS, SASS, Firebase, TypeScript],
   tools: [React, Redux,Git, Styled-Components],
   hobbies: [Programed, Calisthenics, "Gammer"],
-  learning: [React-Native, Flutter, TypeScript, Node.js, Mongo db],
+  learning: [React-Native, Flutter, TypeScript, Node.js],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on React-native"
 }
