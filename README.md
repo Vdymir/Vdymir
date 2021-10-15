@@ -20,8 +20,6 @@ const vdymir = {
   code: [Javascript, HTML, CSS, SASS, Firebase, TypeScript],
   tools: [React, Redux,Git, Styled-Components],
   hobbies: [Programed, Calisthenics, "Gammer"],
-  learning: [React-Native, Flutter, TypeScript, Node.js],
-  
- challenge: "I am doing the #100DaysOfCode challenge focused on React-native"
+  learning: [React-Native, Flutter, Node.js],
 }
 ```
