@@ -22,7 +22,7 @@
 
 const vdymir = {
   code: [Javascript, TypeScript, Html, Css, Sass],
-  tools: [React, React Native, Redux, Git, Styled-Components, Next.js],
+  tools: [React, React-Native, Redux, Git, Styled-Components, Next.js],
   hobbies: [Programed, Calisthenics, "Gammer"],
 }
 
