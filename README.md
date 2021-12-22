@@ -1,5 +1,5 @@
 <h2> Hi!, I am Vladimir👋 </h2>
-<p>  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</br>
+
 ⠀⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀ </br>
 ⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀⠀⢳⡀⠀⡏⠀⠀⠀⠀⠀⢷</br>
 ⠀⠀⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀⠀⠀ ⡇</br>
@@ -12,14 +12,13 @@
 ⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀</br>
 ⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀</br>
 ⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀</br>
-</p>
 
 ```javascript
+
 const vdymir = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SASS, Firebase, TypeScript],
-  tools: [React, Redux,Git, Styled-Components],
+  code: [Javascript, TypeScript, Html, Css, Sass],
+  tools: [React, React Native, Redux, Git, Styled-Components, Next.js],
   hobbies: [Programed, Calisthenics, "Gammer"],
-  learning: [React-Native, Flutter, Node.js],
 }
+
 ```
