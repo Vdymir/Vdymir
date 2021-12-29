@@ -1,7 +1,7 @@
 <h2 align='center'> Hi!, I am Vladimir👋 </h2>
 <p align='center'><b>Frontend Developer</p>
-
-<div align='center'>
+<div>
+<div align='left'>
 
 ⠀⠀⠀⠀ ⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀ </br>
 ⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀⠀⢳⡀⠀⡏⠀⠀⠀⠀⠀ ⢷   </br>
@@ -16,6 +16,10 @@
 ⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀  </br>
 ⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀     </br>
 
+</div>
+<div align='right'>
+<a href="https://app.daily.dev/vcastane"><img src="https://api.daily.dev/devcards/5c969f9cd8514abfb2f07af1022755aa.png?r=ohp" width="300" alt="Vladimir Castañeda's Dev Card"/></a> 
+</div>
 </div>
 
 ```javascript
