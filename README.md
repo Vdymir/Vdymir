@@ -2,7 +2,9 @@
 <p align='center'><b>Frontend Developer</p>
 <div>
 <div align='center'>
-  ```javascript
+  
+```javascript
+  {
 `
 ⠀⠀⠀⠀ ⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀ 
 ⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀⠀⢳⡀⠀⡏⠀⠀⠀⠀⠀ ⢷   
@@ -17,8 +19,10 @@
 ⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀  
 ⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀     
 `
+  }
+```
   
-  ```
+  
 </div>
 </div>
 
