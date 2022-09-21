@@ -6,15 +6,15 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript],
-   learning: [Nest.js],
+   learning: [Dart, Flutter],
    technologies: {
       frontEnd: {
-         css: ["React","Next.js", "React-Native", "Material-UI", "Boostrap"]
+         css: [React, Next.js, React-Native, Material-UI, Boostrap]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: [Node, Express],
       },
-      databases: ["MongoDB"],
+      databases: [MongoDB],
    },
    challenge: "I am studying with discipline to become a fullstack developer.",
 };
