@@ -5,16 +5,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript],
+   code: [Javascript, Typescript, Dart],
    learning: [Dart, Flutter],
    technologies: {
       frontEnd: {
-         css: [React, Next.js, React-Native, Material-UI, Boostrap]
+         js: [React, Next.js, React-Native, Lightning.js, Flutter],
+         css: [Material UI, Bootstrap, Sass]
       },
       backEnd: {
-         js: [Node, Express],
+         js: [Node, Express]
       },
-      databases: [MongoDB],
+      databases: [MongoDB]
    },
    challenge: "I am studying with discipline to become a fullstack developer.",
 };
