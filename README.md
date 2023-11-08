@@ -34,11 +34,3 @@ Software Developer, self-taught, lover of knowledge and constant advancement. I 
   </p>
   <hr>
 
-<h2>💻 Some stats 💻</h2> 
-
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vdymir&theme=tokyonight&show_icons=true" />
-
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vdymir&theme=tokyonight&show_icons=true" />
-
-</p>
