@@ -9,21 +9,18 @@ const aboutMe = {
    learning: [Dart, Flutter],
    technologies: {
       frontEnd: {
-         js: [React, Next.js, React-Native, Lightning.js, Flutter],
-         css: [Material UI, Bootstrap, Sass]
+         js: [React, Next.js, React-Native, Astro, Vue, Flutter],
+         css: [Material UI, Sass]
       },
       backEnd: {
-         js: [Node, Express]
+         js: [Node, Nest.js, Firebase]
       },
       databases: [MongoDB]
    },
    challenge: "I am studying with discipline to become a fullstack developer.",
 };
 ```
-Software Developer, self-taught, lover of knowledge and constant advancement, I currently have knowledge in HTML, CSS, JavaScript, TypeScrtipt, React, React-Native, Next.js, NodeJs, MongoDB, Express, experimenting with some Frameworks, I got into programming about 2 and a half years, expanding my knowledge every day and overcoming each of the challenges that arise improving and advancing without fixed goal, to become a Fullstack Developer, I present myself improving and expanding my knowledge in Nest.js, and Node.js.
-
-I like to work together, with the ability to work in multidisciplinary teams, efficient and productive when working under pressure, order to perform my daily tasks and work, passionate about constant learning, understanding the poetry of programming.
-
+Software Developer, self-taught, lover of knowledge and constant advancement. I got into programming in 2019, since then I love the world of web and mobile development, I like to keep up to date with the technologies that are born day by day. In the not too distant future I will be developing my own app that will be useful for many people
 
 <h2>Connect with me:</h2>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
