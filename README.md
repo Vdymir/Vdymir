@@ -1,4 +1,4 @@
-# Hey 👋 I'm Eduardo
+# Hey 👋 I'm Vladimir
 
 > Building products, chasing ideas, and enjoying the journey.
 
