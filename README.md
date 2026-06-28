@@ -25,52 +25,6 @@ I'm currently working on several indie projects:
 * 🐼 **Unplug Panda** — Helping people reduce phone addiction.
 * ❤️ **SalvaQR** — Emergency QR profiles that could save lives.
 
----
-
-## 🛠️ Tech Stack
-
-### Mobile
-
-* React Native
-* Expo
-* TypeScript
-* Zustand
-* React Query
-* Reanimated
-* Skia
-
-### Frontend
-
-* React
-* Next.js
-* Angular
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Fastify
-* NestJS
-* Supabase
-* MongoDB
-* PostgreSQL
-
-### Tools
-
-* Git
-* GitHub
-* Figma
-* Docker
-
----
-
-## 🌱 Currently Learning
-
-* Swift
-* AI integrations
-* Indie hacking
-* Product design
-* Marketing
 
 ---
 
