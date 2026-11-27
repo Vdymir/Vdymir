@@ -16,15 +16,6 @@ Outside of coding you'll probably find me:
 
 💡 Thinking about the next startup idea.
 
-
----
-
-## 📈 My Goal
-
-I don't just want to write code.
-
-I want to build products that thousands of people enjoy using.
-
 ---
 
 > *"Every successful product started as someone's random idea."*
