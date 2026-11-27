@@ -16,15 +16,6 @@ Outside of coding you'll probably find me:
 
 💡 Thinking about the next startup idea.
 
----
-
-## 🚀 What I'm building
-
-I'm currently working on several indie projects:
-
-* 🐼 **Unplug Panda** — Helping people reduce phone addiction.
-* ❤️ **SalvaQR** — Emergency QR profiles that could save lives.
-
 
 ---
 
